@@ -1,5 +1,5 @@
 # In-App-Review-API-Demo
-> Testing In-App Review API
+> Testing In-App Review API.
 
 Screenshots |
 ---|
